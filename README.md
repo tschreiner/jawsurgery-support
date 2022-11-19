@@ -2,18 +2,19 @@
 Useful information for people who need to undergo jaw surgery
 
 ## Wichtige Fakten/Checkliste
-Nimm dir Zeit, beeile dich nicht. Lege den Eingriff auf eine Zeit, in der du dich in einer stabilen Lebenssituation befindest (Familie, Arbeit, geregelte Finanzen [auch Absicherung im längeren Krankheitsfall], soziales Support Netz)
-Sei dir bewusst, dass kieferchirurgische Eingriffe - gerade bei Bimax Eingriffen - eine Komplikationsrate von mehr als 40% haben [1]
-Bei der Arztsuche: Vergleiche die Vorher/Nachherergebnisse von unterschiedlichen Chirurgen aus dieser Gruppe (wichtig: die Diagnose und durchgeführte OP sollte identisch deiner sein, sonst ist es nicht vergleichbar)
-Vertraue nicht auf die Diagnose eines Arztes sondern hole dir mindestens eine Zweitmeinung ein.
-Vergewissere dich, dass der KFO und KFC ausreichend miteinander kommunizieren und *zu Beginn* den kieferorthopädischen Behandlungsplan miteinander abgestimmt haben. Sollte die nicht der Fall sein, ist das ein Warnzeichen!
-Lasse dir nach jede Diagnostik (Röntgen, manuelle Funktionanalyse) die Daten geben - am besten Digital auf USB Stick oder per E-Mail
-Asymmetrien im Ober- und Unterkiefer sind besondere Herausforderungen - Lass dir von deinem Arzt erklären, wie diese genau behoben werden sollen.
-Engagierte Ärzte (KFO und KFC) stellen dir VOR der KFO Behandlung und vor der OP (min. 1-2 Wochen) Behandlungssimulationen zur Verfügung. Schau dir diese genau an und überleg dir gut, ob das wirklich genau das ist, was du dir vorstellst.
-Eigne dir Wissen zur kephalometrischen Analyse an um zu verstehen, warum bei dir ein Eingriff durchgeführt werden soll und wie die Bewegungen berechnet werden (die wichtigsten Werte sind SNA, SNB, ANB und WITS)
-Sei dir über die Auswirkungen der skelletalen Veränderungen auf das Weichgewebe bzw. dein Aussehen im Klaren und verstehe, welche Bewegungen welche Änderungen hervorrufen [2]
-Sei dir im Klaren darüber, wie der Prozess von der Diagnose über die Planung bis zur OP und Nachsorge abläuft. Fahre bei Unklarheiten nicht im Blindflug fort, sondern kläre Unklarheiten ab.
-Verstehe dein Einfluss der geplanten Verlagerungen auf die Kiefergelenke - es gibt einige Fälle hier in der Gruppe wo nach mangelhafter Planung nach einer Bimax künstliche Kiefergelenke fällig wurden oder bald fällig werden
+* Nimm dir Zeit, beeile dich nicht.
+* Lege den Eingriff auf eine Zeit, in der du dich in einer stabilen Lebenssituation befindest (Familie, Arbeit, geregelte Finanzen [auch Absicherung im längeren Krankheitsfall], soziales Support Netz)
+* Sei dir bewusst, dass kieferchirurgische Eingriffe - gerade bei Bimax Eingriffen - eine Komplikationsrate von mehr als 40% haben [1]
+* Bei der Arztsuche: Vergleiche die Vorher/Nachherergebnisse von unterschiedlichen Chirurgen aus dieser Gruppe (wichtig: die Diagnose und durchgeführte OP sollte identisch deiner sein, sonst ist es nicht vergleichbar)
+* Vertraue nicht auf die Diagnose eines Arztes sondern hole dir mindestens eine Zweitmeinung ein.
+* Vergewissere dich, dass der KFO und KFC ausreichend miteinander kommunizieren und *zu Beginn* den kieferorthopädischen Behandlungsplan miteinander abgestimmt haben. Sollte die nicht der Fall sein, ist das ein Warnzeichen!
+* Lasse dir nach jede Diagnostik (Röntgen, manuelle Funktionanalyse) die Daten geben - am besten Digital auf USB Stick oder per E-Mail
+* Asymmetrien im Ober- und Unterkiefer sind besondere Herausforderungen - Lass dir von deinem Arzt erklären, wie diese genau behoben werden sollen.
+* Engagierte Ärzte (KFO und KFC) stellen dir VOR der KFO Behandlung und vor der OP (min. 1-2 Wochen) Behandlungssimulationen zur Verfügung. Schau dir diese genau an und überleg dir gut, ob das wirklich genau das ist, was du dir vorstellst.
+* Eigne dir Wissen zur kephalometrischen Analyse an um zu verstehen, warum bei dir ein Eingriff durchgeführt werden soll und wie die Bewegungen berechnet werden (die wichtigsten Werte sind SNA, SNB, ANB und WITS)
+* Sei dir über die Auswirkungen der skelletalen Veränderungen auf das Weichgewebe bzw. dein Aussehen im Klaren und verstehe, welche Bewegungen welche Änderungen hervorrufen [2]
+* Sei dir im Klaren darüber, wie der Prozess von der Diagnose über die Planung bis zur OP und Nachsorge abläuft. Fahre bei Unklarheiten nicht im Blindflug fort, sondern kläre Unklarheiten ab.
+* Verstehe dein Einfluss der geplanten Verlagerungen auf die Kiefergelenke - es gibt einige Fälle hier in der Gruppe wo nach mangelhafter Planung nach einer Bimax künstliche Kiefergelenke fällig wurden oder bald fällig werden
  
 ## Der Prozess
 Das fasst den Prozess recht gut zusammen: https://surgeryreference.aofoundation.org/cmf/orthognathic/further-reading/planning-of-orthognathic-surgery#introduction
