@@ -51,15 +51,20 @@ Sortierbar/Filterbar nach Erfahrung, Weiterempfehlung, Hygiene, Qualifikation):
 Oberkiefer https://www.weisse-liste.de/krankenhaus/s/deutschlandweit/o/Osteotomie_zur_Verlagerung_des_Mittelgesichtes--5-777
 Unterkiefer https://www.weisse-liste.de/krankenhaus/s/deutschlandweit/o/Osteotomie_zur_Verlagerung_des_Untergesichtes--5-776
  
-## Operationstechniken Oberkiefer
+## Operationstechniken
+ 
+### Operationstechniken Oberkiefer
 
 Le Fort 1 Downfracture: https://www.dysgnathie.info/geschichte-der-dysgnathie/operationen-nach-1951/downfracture-methode-nach-bell.html
-Operationstechniken Unterkiefer
+
+## Operationstechniken Unterkiefer
 BSSO (Modifikation Dal-Pont und Hunsuck Epker), wird in 99% der Fälle angewendet: https://www.dysgnathie.info/geschichte-der-dysgnathie/operationen-nach-1951/sagittale-spaltung-des-unterkiefers-nach-obwegeser/modifikation-obwegesers-operationsmethode-nach-dal-pont-und-hunsuck-epker.html
+
 Hoch schräge saggitale Osteotomie (Dr. Kater, Dr. Zarrinbal): https://www.dysgnathie.info/geschichte-der-dysgnathie/operationen-nach-1951/hoch-schraege-osteotomien-nach-perthes-und-schloessmann-1922.html
  
-Operationstechnik GNE
- https://www.dysgnathie.info/geschichte-der-dysgnathie/operationen-nach-1951/chirurgisch-unterstuetzte-gaumennahterweiterung-gne.html
+### Operationstechnik GNE
+
+https://www.dysgnathie.info/geschichte-der-dysgnathie/operationen-nach-1951/chirurgisch-unterstuetzte-gaumennahterweiterung-gne.html
  
 ## Recherche von wissenschaftliche Arbeiten
 
