@@ -69,7 +69,12 @@ Android: DroidRender https://play.google.com/store/apps/details?id=com.luolai.dr
 OrtogOnBlender 
 https://www.youtube.com/watch?v=h-bFvhLp-8g
 https://www.youtube.com/watch?v=r9yU_1UR31M
- 
+
+## Kostenerstattung bei Behandlungen im Ausland
+
+Scheint möglich zu sein, sofern man es mit der Krankenkasse vorher beantragt hat (S2 Formular auf https://europa.eu/youreurope/citizens/health/planned-healthcare/expenses-reimbursements/index_de.htm).
+
+Erstattungsarten: Direkte Abrechnung mit öffentlichen Stellen oder Selbstzahler mit anschlißender Erstattung durch die GKV.
  
  
 https://www.youtube.com/watch?v=HrgijOMqK0s
