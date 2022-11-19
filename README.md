@@ -2,6 +2,11 @@
 
 Useful information for people who need to undergo jaw surgery
 
+## Mitarbeit
+
+Mitarbeit ist sehr gerne erwünscht. Das GitHub Repo befindet sich unter: https://github.com/tschreiner/jawsurgery-support
+Erstelle gerne einen Merge Request.
+
 ## Wichtige Fakten/Checkliste
 
 * Nimm dir Zeit, beeile dich nicht.
