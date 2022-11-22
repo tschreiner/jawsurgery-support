@@ -106,6 +106,26 @@ Erstattungsarten: Direkte Abrechnung mit öffentlichen Stellen oder Selbstzahler
  
 https://www.youtube.com/watch?v=HrgijOMqK0s
 
+## Natural head position
+
+Der Transfer von der natural head position auf den DVT scan ist sehr wichtig für das chirurgische outcome. Die manuelle Methodik über den Fototransfer ist häufig zu ungenau und in aktuellen Papers wird empfohlen auf andere Methoden auszuweichen.
+
+### Manueller transfer der natural head position auf VSP
+
+"To determine the clinical NHP, a frontal photograph and a lateral photograph were captured by a medical photographer in a standardized photography studio. A 35-mm digital single-lens reflex camera mounted on a tripod on wheels that was placed in vertical orientation was used to obtain the clinical photographs. The absolute leveled position was ensured by a spirit level attached to the camera. Patients were seated and were asked to look straight forward at the eye level into the lens (which was placed at the same height) while a frontal photograph was acquired. Subsequently, the lateral photograph was obtained by turning the seat of the patient 90° to the left, having the eyes focused on an object on the horizon."
+https://www.sciencedirect.com/science/article/pii/S0278239122004128
+
+
+### Augusto Pary Meinung zum Transfer der Natural head position
+
+https://www.instagram.com/p/CiQ4YU1N_P5/?hl=de
+
+If I can say something after 15 years working with orthognathic and face surgery, it is that one of the most important factors of success is the oriented position of the head. That's point number 1 for a good result.
+It sounds simple but it's not. Cl II and asymmetric patients are the ones with the most postural changes and only an attentive and experienced surgeon will know how to position them properly. This requires training and understanding what anatomical structures are the most reliable to use as a reference.
+Wrong position changes the diagnosis and planning numbers, leading to suboptimal results.
+And not only that, this clinical position has to be transferred identically to the CT scan.
+In the following slides, I show some references that I use for this.
+
 ## Unsortiert
 
 https://youtu.be/Wp_CprM69t8
